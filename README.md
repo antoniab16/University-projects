@@ -4,7 +4,7 @@
 
 
 ## Semester 1
-  - ### Fundamentals of programming
+  - ### [Fundamentals of programming](https://github.com/antoniab16/University-projects/tree/main/Semester%201)
     - **Language used** : *Python*
     - **Description** : *Assignments about key programming concepts, introductory problem solving methods, concepts about design, implementation and maintanance of system, understanding of software                            tools and Python language*
 ## Semester 2
