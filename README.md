@@ -4,9 +4,9 @@
 
 
 ## Semester 1
-  - Fundamentals of programming
+  - ### Fundamentals of programming
     - **Language used** : *Python*
     - **Description** : *Assignments about key programming concepts, introductory problem solving methods, concepts about design, implementation and maintanance of system, understanding of software                            tools and Python language*
 ## Semester 2
-  - Object oriented programmig
-  - Data structures and algorithms 
+  - ### Object oriented programmig
+  - ### Data structures and algorithms 
