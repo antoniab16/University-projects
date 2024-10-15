@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Movie watchlist</title>
+</head>
+<body>
+<table border="1">
+<tr><th>Title</th><th>Genre</th><th>Year</th><th>Likes</th><th>Trailer</th></tr>
+<tr><td>Oppenheimer</td><td>Biography</td><td>2023</td><td>812000</td><td>https://www.youtube.com/watch?v=uYPbbksJxIg</td></tr>
+<tr><td>Culpa Mia</td><td>Drama</td><td>2023</td><td>33000</td><td>https://www.youtube.com/watch?v=3CpKBAPqqM0</td></tr>
+<tr><td>Spider-Man : No Way Home</td><td>Action</td><td>2021</td><td>2900000</td><td>https://www.youtube.com/watch?v=JfVOs4VSpmA</td></tr>
+<tr><td>LaLaLand</td><td>Drama</td><td>2016</td><td>200000</td><td>https://www.youtube.com/watch?v=0pdqf4P9MB8</td></tr>
+<tr><td>Hunger Games Ballads Of Songbirds And Snakes</td><td>Action</td><td>2023</td><td>215000</td><td>https://www.youtube.com/watch?v=RDE6Uz73A7g</td></tr>
+<tr><td>The Batman</td><td>Action</td><td>2022</td><td>1300000</td><td>https://www.youtube.com/watch?v=mqqft2x_Aa4</td></tr>
+<tr><td>Wall-E</td><td>Animation</td><td>2008</td><td>12000</td><td>https://www.youtube.com/watch?v=CZ1CATNbXg0</td></tr>
+<tr><td>Titanic</td><td>Drama</td><td>1997</td><td>726000</td><td>https://www.youtube.com/watch?v=F2RnxZnubCM</td></tr>
+<tr><td>Cars</td><td>Animation</td><td>2006</td><td>1200</td><td>https://www.youtube.com/watch?v=W_H7_tDHFE8</td></tr>
+<tr><td>Elvis</td><td>Biography</td><td>2022</td><td>149000</td><td>https://www.youtube.com/watch?v=wBDLRvjHVOY</td></tr>
+</table>
+</body>
+</html>
