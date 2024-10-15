@@ -1,0 +1,3 @@
+/Users/antonia/CLionProjects/oop-a8-9-antoniab16/src/cmake-build-debug/CMakeFiles/oop_a8_9_antoniab16.dir
+/Users/antonia/CLionProjects/oop-a8-9-antoniab16/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonia/CLionProjects/oop-a8-9-antoniab16/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
