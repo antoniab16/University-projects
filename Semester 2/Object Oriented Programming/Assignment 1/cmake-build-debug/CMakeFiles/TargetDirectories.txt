@@ -1,0 +1,3 @@
+/Users/antonia/CLionProjects/a1-antoniab16-1/cmake-build-debug/CMakeFiles/a1_antoniab16_1.dir
+/Users/antonia/CLionProjects/a1-antoniab16-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonia/CLionProjects/a1-antoniab16-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
