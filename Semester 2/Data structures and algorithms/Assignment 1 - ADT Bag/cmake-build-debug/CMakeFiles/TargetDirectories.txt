@@ -1,0 +1,3 @@
+/Users/antonia/Documents/dsa/assignment 1 - bag/cmake-build-debug/CMakeFiles/assignment_1___bag.dir
+/Users/antonia/Documents/dsa/assignment 1 - bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonia/Documents/dsa/assignment 1 - bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
