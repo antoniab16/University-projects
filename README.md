@@ -11,4 +11,6 @@
   - ### Object oriented programmig
     - **Language used** : *C++*
     - **Description** : *Assignments that solve small/medium scale problems using OOP, that construct and use class structures as fundamental, modular building blocks and also use Qt to build GUIs*
-  - ### Data structures and algorithms 
+  - ### Data structures and algorithms
+    - **Language used** : *C++*
+    - **Description** : *Assignments that implement data structures and abstract data types so that we understand how they work and what their time and space complexity are.*
