@@ -1,4 +1,4 @@
-# University-projects
+# University-projects year 1
   This is a repository of my university projects up to date. It tracks my progress throughout my studies at [Babeş-Bolyai University of Cluj Napoca, Faculty of Mathematics and Computer Science, Bachelor’s in Computer Science](https://www.cs.ubbcluj.ro/) .
 
 
